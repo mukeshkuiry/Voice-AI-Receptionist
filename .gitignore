@@ -1,0 +1,44 @@
+# Python bytecode
+*.pyc
+*.pyo
+__pycache__/
+
+# Environment variables
+.env
+*.env
+
+# Virtual environments
+venv/
+ENV/
+env/
+
+# Logs
+*.log
+*.log.*
+
+# Flask specific
+instance/
+*.sqlite3
+*.db
+
+# Pytest cache
+.pytest_cache/
+
+# IDEs and editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Miscellaneous
+*.bak
+*.tmp
+*.temp
+
+# Additinal files
+credentials.json
+output.json
