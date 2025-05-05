@@ -5,8 +5,9 @@ This project sets up a **Voice AI Receptionist** that logs call reports and send
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository_url>
-cd <project_directory>
+git clone https://github.com/mukeshkuiry/Voice-AI-Receptionist
+cd Voice-AI-Receptionist
+
 ```
 
 ### 2. Set Up Vapi Account
